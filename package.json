@@ -1,0 +1,18 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your name",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1",
+    "socket.io": "^4.7.5"
+  }
+}
